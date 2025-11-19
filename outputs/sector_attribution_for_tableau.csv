@@ -1,0 +1,11 @@
+sector,allocation_effect,selection_effect,interaction_effect,excess_return
+Consumer Discretionary,0.004938961179367731,0.0,0.0,0.0
+Consumer Staples,-2.9302146982353417e-05,0.0,0.0,0.0
+Energy,0.0012739258958456776,0.0,0.0,0.0
+Financials,0.0033689038334846705,0.0,0.0,0.0
+Health Care,-0.0010353775236422664,0.0,0.0,0.0
+Industrials,-0.0036323639121787384,0.0,0.0,0.0
+Information Technology,0.0001954337946093849,0.0,0.0,0.0
+Materials,0.0013159375080337224,0.0,0.0,0.0
+Real Estate,-0.0014742405636438676,0.0,0.0,0.0
+Utilities,-0.0004025129553029149,0.0,0.0,0.0
