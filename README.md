@@ -16,4 +16,9 @@ You can explore the interactive dashboard on Tableau Public here:
 This dashboard visualizes:
 - Sector excess returns  
 - Allocation & selection effects  
-- Automated AI-generated attribution commentary 
+- Automated AI-generated attribution commentary
+
+**Disclaimer:**  
+This project uses fully synthetic data generated for demonstration purposes only.  
+Because the dataset is randomly generated, many attribution effects (e.g., excess return, allocation, selection) may appear close to zero.  
+The goal is to showcase the analytics workflow and AI integration—not real investment performance.
